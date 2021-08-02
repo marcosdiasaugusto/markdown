@@ -118,7 +118,7 @@ Veja [Overview example article](../../overview.md)
 **Imagem**
 
 ![imagem](/marcos_2021/foto.png?lang=pt-BR)
-![imagem]('foto.png')
+![imagem](foto.png)
 
 Dado espaços:
 
@@ -159,7 +159,7 @@ Exemplo:
 
 **Inserindo imagem**
 
-!["My Mother"]('foto mama.jpg')
+!["My Mother"]('foto mama'.jpg)
 
 **Documentando um projeto**
 
