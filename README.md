@@ -94,6 +94,7 @@ Inclua uma linha em branco antes da tabela para que ela seja renderizada correta
 - criam cabeçalhos de cada coluna
 
 <linha em branco>
+ 
 | header 1 | header 2 | header 3 |
 |--- |--- |--- |
 | row 1 | column 2 | colum 3 |
@@ -125,7 +126,9 @@ Para colocar outros blocos de Markdown numa citação basta acionar:.
 
 Exemplo:
 
-> O '>' nas linhas em branco é obrigatório > para criar um único bloco de citação.> >
+> O '>' nas linhas em branco é obrigatório 
+> para criar um único bloco de citação.
+> >
 
 **Editores Markdown**
 
