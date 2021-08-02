@@ -66,7 +66,7 @@ Exemplo 2:
 1. bal bla bla bla 
 
 
-![imagem]("foto.jpg")
+![imagem]("foto.png")
 1. bla bla
 
 | Hello | world |
