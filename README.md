@@ -65,8 +65,7 @@ Exemplo 2:
 1. bla bla bla
 1. bal bla bla bla 
 
-![imagem](/marcos_2021/foto.png?lang=pt-BR)
- 
+
 ![imagem]("foto.jpg")
 1. bla bla
 
