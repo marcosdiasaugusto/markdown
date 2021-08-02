@@ -149,7 +149,7 @@ Exemplo:
 **Como formatar Readme**
 
 * Header equivalente <h1> .. <h3>
-* Ênfase equivalente ao negrigro <b>, itálico <i> e riscado <strike>
+* Ênfase equivalente ao <b> negrigro </b>, <i> itálico </i> e <strike> riscado </strike>
 * lista ordenada equivalente <ol>
 * lista não ordenada equivalente ao <ul>
 * Links equivalente <a>
