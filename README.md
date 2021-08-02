@@ -66,6 +66,8 @@ Exemplo 2:
 1. bal bla bla bla 
 
 ![imagem](/marcos_2021/foto.png?lang=pt-BR)
+ 
+![imagem]("foto.jpg")
 1. bla bla
 
 | Hello | world |
@@ -117,6 +119,7 @@ Veja [Overview example article](../../overview.md)
 **Imagem**
 
 ![imagem](/marcos_2021/foto.png?lang=pt-BR)
+![imagem]('foto.png')
 
 Dado espaços:
 
@@ -157,7 +160,7 @@ Exemplo:
 
 **Inserindo imagem**
 
-![texto](imagem)
+!["My Mother"]('foto mama.jpg')
 
 **Documentando um projeto**
 
