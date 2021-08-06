@@ -174,11 +174,12 @@ Exemplo:
 
 1. baixar e instalar o ATOM
 
- #<b>Passo a passo de como fazer o Readme aparecer no seu overview:</b>
+#<b>Passo a passo de como fazer o Readme aparecer no seu overview:</b>
  
- [Natansl](https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4)<br/>
- [Repositório para alguns badges que você pode utilizar](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br/>
- [Repositório com Dynamic cards](https://github.com/anuraghazra/github-readme-stats)<br/>
- [Repositório com Emojis para Readme](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<br/>
+[Natansl](https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4)<br/>
+[Repositório para alguns badges que você pode utilizar](https://github.com/alexandresanlim/Badges4-README.md-Profile)<br/>
+[Repositório com Dynamic cards](https://github.com/anuraghazra/github-readme-stats)<br/>
+[Repositório com Emojis para Readme](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<br/>
+[livros gratuitos de várias linguagens](https://books.goalkicker.com/)<br/>
 
 
