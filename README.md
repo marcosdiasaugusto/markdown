@@ -332,3 +332,22 @@ def inverte(texto):
 function escrever_nome(nome):
     console.log(nome);
 ```
+ 
+# Lista de tarefas
+
+- [ ] Acordar
+- [ ] Escovar os dentes
+- [ x ] ~~Tomar café da manhã~~
+
+~~Este texto está riscado~~
+
+# Separar conteúdo
+
+---
+
+# Referência
+
+[geek]: rubik.png
+
+[curso]: https://www.udemy.com/course/curso-python-3-completo/?gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7mRB-0fmzE8NL2BADzsA-aa7yk1oAFGwp_lC4zOyos23Tf2PUYNgV0aAm-sEALw_wcB&utm_campaign=Python_new_v.PROF_la.PT_cc.BR_ti.7380&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords-intl&utm_term=_._ag_105409578207_._kw_curso+python_._ad_541912798550_._de_c_._dm__._pl__._ti_kwd-304414946800_._li_1001765_._pd__._
+
