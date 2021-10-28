@@ -272,3 +272,63 @@ Outra forma
 ![Geek](rubik.png "Geek University")
 
 ![Outra](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fproduto.mercadolivre.com.br%2FMLB-1170855815-adesivos-geek-nerd-e-personagens-20uni-_JM&psig=AOvVaw2Qy40R50Z1HEFq7SDpS3t_&ust=1635514680300000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDO55Cd7fMCFQAAAAAdAAAAABAD)
+
+ # Tabelas
+
+Produto | Preço
+--------|------
+Playstation 4 | R$ 1799,54
+Xbox One | R$ 1789,00
+Nitendo Wii | R$ 2133,67
+Atari 2600 | R$ 199,00
+
+Produto | Preço
+--------|------:
+Playstation 4 | R$ 1799,54
+Xbox One | R$ 1789,00
+Nitendo Wii | R$ 2133,67
+Atari 2600 | R$ 199,00
+
+Produto | Preço
+--------:|------
+Playstation 4 | R$ 1799,54
+Xbox One | R$ 1789,00
+Nitendo Wii | R$ 2133,67
+Atari 2600 | R$ 199,00
+
+Produto | Preço
+:------:|------
+Playstation 4 | R$ 1799,54
+Xbox One | R$ 1789,00
+Nitendo Wii | R$ 2133,67
+Atari 2600 | R$ 199,00
+
+##### Texto Mono Espaçado Inline
+
+### Python
+
+```
+def inverte(texto):
+    return texto[::-1]
+```
+
+### JavaScript
+
+```
+function escrever_nome(nome):
+    console.log(nome);
+```
+
+### Python
+
+```python
+def inverte(texto):
+    return texto[::-1]
+```
+
+### JavaScript
+
+```js
+function escrever_nome(nome):
+    console.log(nome);
+```
