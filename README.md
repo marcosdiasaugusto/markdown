@@ -224,3 +224,51 @@ __Geek University__ tem os *melhores* cursos.
 <https://www.geekuniversity.com.br>
 
 <contato@geekuniversity.com.br>
+
+ # Citação
+
+> Geek University
+> llk dsll  lll f lkl
+> ddl lld dlddl dlld 
+
+# Lista não ordenadas
+
+- Manga
+    - Verde
+- Uva
+    - Argentina
+    - Venezuelana
+- Laranja
+
+Outra forma
+
+* Manga
+    * Verde
+* Uva
+    * Argentina
+    * Venezuelana
+* Laranja
+
+# Listas Ordenadas
+
+1. Manga
+    1.1. Verde
+2. Uva
+    2.1. Argentina
+    2.2. Venezuelana
+3. Laranja
+
+# Lista Automática
+
+1. Manga
+    1.1. Verde
+1. Uva
+    2.1. Argentina
+    2.2. Venezuelana
+1. Laranja
+
+# Imagens Locais
+
+![Geek](rubik.png "Geek University")
+
+![Outra](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fproduto.mercadolivre.com.br%2FMLB-1170855815-adesivos-geek-nerd-e-personagens-20uni-_JM&psig=AOvVaw2Qy40R50Z1HEFq7SDpS3t_&ust=1635514680300000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDO55Cd7fMCFQAAAAAdAAAAABAD)
