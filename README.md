@@ -356,4 +356,58 @@ function escrever_nome(nome):
 
 [curso]: https://www.udemy.com/course/curso-python-3-completo/?gclid=Cj0KCQjwlOmLBhCHARIsAGiJg7mRB-0fmzE8NL2BADzsA-aa7yk1oAFGwp_lC4zOyos23Tf2PUYNgV0aAm-sEALw_wcB&utm_campaign=Python_new_v.PROF_la.PT_cc.BR_ti.7380&utm_content=deal4584&utm_medium=udemyads&utm_source=adwords-intl&utm_term=_._ag_105409578207_._kw_curso+python_._ad_541912798550_._de_c_._dm__._pl__._ti_kwd-304414946800_._li_1001765_._pd__._
 
+# Nome do seu projeto
+
+> Um resumo curto sobre o que o seu projeto faz
+
+Um ou dois parágrafos sobre seu projeto e o que ele faz.
+
+![](rubik.png)
+
+## Instalação
+
+OS X & Linux:
+
+```sh
+npm install --save
+```
+
+Windows:
+
+```sh
+edit autoexec.bat
+```
+
+## Exemplo de uso
+
+Alguns exemplos que motivaram as pessas a utilizarem seu projeto ou que domonstrasse que esse é útil para alguma coisa. Divida esta parte em partes menores e se possível coloque algum código ou prints de telas.
+
+## Ambiente de Desenvolvimento
+
+Descrever como instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente e pessoas possam contribuir com o mesmo.
+Se possível forneçaas informações para diferentes plataformas, exemplo Windows, Linux e Mac OS.
+
+## Histórico de Atualizações
+
+* 0.2.1
+    * CHANGE: Atualização dos docs (o código não foi alterado)
+* 0.2.0
+    * CHANGE: Removida a função `setPadrãoXYZ()`
+    * ADD: Adicionado a função `inicializar()`
+* 0.1.1
+    * FIX: Crash quando executava `escrever()` (Obrigado ao @Contribuidor)
+* 0.1.0
+    * O primeiro lançamento estável
+    * CHANGE: Renomeado de `Projeto XYZ` para `Projeto ABC`
+* 0.0.1
+    * Projeto inicial
+
+
+## Meta
+
+Seu nome - [@SeuTwitter](https://twitter.com/seuTwitter) - seuemail@gmail.com
+
+Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+
+[https://github.com/seuusuaurio/seuprojeto](https://github.com/seusuario)
 
