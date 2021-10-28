@@ -182,4 +182,45 @@ Exemplo:
 [Repositório com Emojis para Readme](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<br/>
 [livros gratuitos de várias linguagens](https://books.goalkicker.com/)<br/>
 
+Esse texto direto é um parágrafo.
 
+Começo um novo pargrafo.
+Este não é um paragráfo.
+
+# Curso de Git e Github
+
+## Geek University
+
+### Evolua seu lado geek
+
+#### www.geekuniversity.com.br
+
+##### Conte sempre com a Geek University
+
+###### É isso aí
+
+####### Já não é mais nada ...
+
+Outro H1
+=
+
+Outro H2
+-
+ 
+ # Itálico
+
+Estava estudando inglês com _the books is on the table_ ontem.
+
+# Strong/Bold
+
+Fiz o curso de Git na **Geek University**
+
+__Geek University__ tem os *melhores* cursos.
+
+# links
+
+[Geek University] (https://www.geekuniversity.com.br "Website da Geek University")
+
+<https://www.geekuniversity.com.br>
+
+<contato@geekuniversity.com.br>
